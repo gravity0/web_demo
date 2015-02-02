@@ -1,0 +1,11 @@
+.div-square-circle {  
+  background-color: #7FFF00;
+  -webkit-border-top-left-radius: 40px;  
+  -webkit-border-top-right-radius: 40px;  
+  -webkit-border-bottom-right-radius: 40px;  
+  -webkit-border-bottom-left-radius: 40px;  
+  -moz-border-radius-topleft: 40px;  
+  -moz-border-radius-topright: 40px;  
+  -moz-border-radius-bottomright: 40px;  
+  -moz-border-radius-bottomleft: 40px;  
+}  
